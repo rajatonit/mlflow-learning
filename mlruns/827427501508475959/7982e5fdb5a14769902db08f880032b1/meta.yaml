@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/827427501508475959/7982e5fdb5a14769902db08f880032b1/artifacts
+end_time: 1713466700676
+entry_point_name: ''
+experiment_id: '827427501508475959'
+lifecycle_stage: active
+run_id: 7982e5fdb5a14769902db08f880032b1
+run_name: zealous-colt-377
+run_uuid: 7982e5fdb5a14769902db08f880032b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713466699363
+status: 3
+tags: []
+user_id: rajat

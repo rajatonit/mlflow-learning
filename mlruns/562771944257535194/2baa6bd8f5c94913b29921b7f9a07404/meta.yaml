@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/562771944257535194/2baa6bd8f5c94913b29921b7f9a07404/artifacts
+end_time: 1713474791489
+entry_point_name: ''
+experiment_id: '562771944257535194'
+lifecycle_stage: active
+run_id: 2baa6bd8f5c94913b29921b7f9a07404
+run_name: rebellious-smelt-452
+run_uuid: 2baa6bd8f5c94913b29921b7f9a07404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713474791405
+status: 3
+tags: []
+user_id: rajat

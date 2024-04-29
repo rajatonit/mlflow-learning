@@ -1,0 +1,6 @@
+artifact_location: file:///Users/rajat/Desktop/projects/mlflow_demo_1/launch_multiple/mlruns/699589409977454785
+creation_time: 1713539521380
+experiment_id: '699589409977454785'
+last_update_time: 1713539521380
+lifecycle_stage: active
+name: exp_multi_Ridge

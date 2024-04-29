@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/autologging/mlruns/367429028306450306/62031f95b23e41b4b03da7cdb81b24c4/artifacts
+end_time: 1713542246183
+entry_point_name: ''
+experiment_id: '367429028306450306'
+lifecycle_stage: active
+run_id: 62031f95b23e41b4b03da7cdb81b24c4
+run_name: nervous-jay-871
+run_uuid: 62031f95b23e41b4b03da7cdb81b24c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713542244549
+status: 3
+tags: []
+user_id: rajat

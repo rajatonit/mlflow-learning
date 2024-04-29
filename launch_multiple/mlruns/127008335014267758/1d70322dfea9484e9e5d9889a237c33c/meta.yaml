@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/launch_multiple/mlruns/127008335014267758/1d70322dfea9484e9e5d9889a237c33c/artifacts
+end_time: 1713539525498
+entry_point_name: ''
+experiment_id: '127008335014267758'
+lifecycle_stage: active
+run_id: 1d70322dfea9484e9e5d9889a237c33c
+run_name: run1.1
+run_uuid: 1d70322dfea9484e9e5d9889a237c33c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713539524499
+status: 3
+tags: []
+user_id: rajat

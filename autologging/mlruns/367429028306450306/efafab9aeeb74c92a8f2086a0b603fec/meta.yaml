@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/autologging/mlruns/367429028306450306/efafab9aeeb74c92a8f2086a0b603fec/artifacts
+end_time: 1713542898739
+entry_point_name: ''
+experiment_id: '367429028306450306'
+lifecycle_stage: active
+run_id: efafab9aeeb74c92a8f2086a0b603fec
+run_name: nosy-mink-74
+run_uuid: efafab9aeeb74c92a8f2086a0b603fec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713542897084
+status: 3
+tags: []
+user_id: rajat

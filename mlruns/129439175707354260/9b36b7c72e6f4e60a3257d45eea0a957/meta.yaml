@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/129439175707354260/9b36b7c72e6f4e60a3257d45eea0a957/artifacts
+end_time: 1713401239205
+entry_point_name: ''
+experiment_id: '129439175707354260'
+lifecycle_stage: active
+run_id: 9b36b7c72e6f4e60a3257d45eea0a957
+run_name: clumsy-foal-472
+run_uuid: 9b36b7c72e6f4e60a3257d45eea0a957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713401238031
+status: 3
+tags: []
+user_id: rajat

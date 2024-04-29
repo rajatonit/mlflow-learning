@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/827427501508475959/774dcb79da2b4cb2b714ea1083bd890f/artifacts
+end_time: 1713402829050
+entry_point_name: ''
+experiment_id: '827427501508475959'
+lifecycle_stage: active
+run_id: 774dcb79da2b4cb2b714ea1083bd890f
+run_name: blushing-newt-24
+run_uuid: 774dcb79da2b4cb2b714ea1083bd890f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713402827715
+status: 3
+tags: []
+user_id: rajat

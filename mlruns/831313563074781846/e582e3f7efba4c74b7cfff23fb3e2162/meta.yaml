@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/831313563074781846/e582e3f7efba4c74b7cfff23fb3e2162/artifacts
+end_time: 1713467973331
+entry_point_name: ''
+experiment_id: '831313563074781846'
+lifecycle_stage: active
+run_id: e582e3f7efba4c74b7cfff23fb3e2162
+run_name: sassy-squirrel-778
+run_uuid: e582e3f7efba4c74b7cfff23fb3e2162
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713467972143
+status: 3
+tags: []
+user_id: rajat

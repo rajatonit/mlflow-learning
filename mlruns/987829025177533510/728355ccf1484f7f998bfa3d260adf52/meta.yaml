@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/987829025177533510/728355ccf1484f7f998bfa3d260adf52/artifacts
+end_time: 1713401214304
+entry_point_name: ''
+experiment_id: '987829025177533510'
+lifecycle_stage: active
+run_id: 728355ccf1484f7f998bfa3d260adf52
+run_name: tasteful-rook-717
+run_uuid: 728355ccf1484f7f998bfa3d260adf52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713401213037
+status: 3
+tags: []
+user_id: rajat

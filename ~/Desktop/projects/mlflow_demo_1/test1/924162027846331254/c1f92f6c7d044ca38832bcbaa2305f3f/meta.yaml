@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/~/Desktop/projects/mlflow_demo_1/test1/924162027846331254/c1f92f6c7d044ca38832bcbaa2305f3f/artifacts
+end_time: 1713378602193
+entry_point_name: ''
+experiment_id: '924162027846331254'
+lifecycle_stage: active
+run_id: c1f92f6c7d044ca38832bcbaa2305f3f
+run_name: learned-shad-390
+run_uuid: c1f92f6c7d044ca38832bcbaa2305f3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713378601014
+status: 3
+tags: []
+user_id: rajat

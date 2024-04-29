@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/827427501508475959/c2c12d53b4d94c799ba8a402d6cefece/artifacts
+end_time: 1713466903098
+entry_point_name: ''
+experiment_id: '827427501508475959'
+lifecycle_stage: active
+run_id: c2c12d53b4d94c799ba8a402d6cefece
+run_name: bold-fly-93
+run_uuid: c2c12d53b4d94c799ba8a402d6cefece
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713466901887
+status: 3
+tags: []
+user_id: rajat

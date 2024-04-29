@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/562771944257535194/f1406f0288f341b79b9f7bf70c776ce4/artifacts
+end_time: 1713474698700
+entry_point_name: ''
+experiment_id: '562771944257535194'
+lifecycle_stage: active
+run_id: f1406f0288f341b79b9f7bf70c776ce4
+run_name: monumental-hog-688
+run_uuid: f1406f0288f341b79b9f7bf70c776ce4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713474698617
+status: 3
+tags: []
+user_id: rajat

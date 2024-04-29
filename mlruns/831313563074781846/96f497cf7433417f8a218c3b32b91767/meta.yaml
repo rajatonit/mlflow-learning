@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/mlruns/831313563074781846/96f497cf7433417f8a218c3b32b91767/artifacts
+end_time: 1713468254501
+entry_point_name: ''
+experiment_id: '831313563074781846'
+lifecycle_stage: active
+run_id: 96f497cf7433417f8a218c3b32b91767
+run_name: persistent-horse-17
+run_uuid: 96f497cf7433417f8a218c3b32b91767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713468253199
+status: 3
+tags: []
+user_id: rajat

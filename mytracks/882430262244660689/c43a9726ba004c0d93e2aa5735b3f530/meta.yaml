@@ -1,0 +1,15 @@
+artifact_uri: /Users/rajat/Desktop/projects/mlflow_demo_1/mytracks/882430262244660689/c43a9726ba004c0d93e2aa5735b3f530/artifacts
+end_time: 1713378432756
+entry_point_name: ''
+experiment_id: '882430262244660689'
+lifecycle_stage: active
+run_id: c43a9726ba004c0d93e2aa5735b3f530
+run_name: flawless-cub-332
+run_uuid: c43a9726ba004c0d93e2aa5735b3f530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713378431555
+status: 3
+tags: []
+user_id: rajat
