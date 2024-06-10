@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/evaluate_model/mlruns/439838454072990027/ef3664e4cf9e4fe0a435d00f6b077966/artifacts
+end_time: 1715374324848
+entry_point_name: ''
+experiment_id: '439838454072990027'
+lifecycle_stage: active
+run_id: ef3664e4cf9e4fe0a435d00f6b077966
+run_name: clumsy-ape-133
+run_uuid: ef3664e4cf9e4fe0a435d00f6b077966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715374314552
+status: 3
+tags: []
+user_id: rajat

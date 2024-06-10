@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/evaluate_model/mlruns/439838454072990027/1883bd185487454db52f52e86e1389f4/artifacts
+end_time: 1715374276838
+entry_point_name: ''
+experiment_id: '439838454072990027'
+lifecycle_stage: active
+run_id: 1883bd185487454db52f52e86e1389f4
+run_name: likeable-kit-346
+run_uuid: 1883bd185487454db52f52e86e1389f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715374276429
+status: 3
+tags: []
+user_id: rajat

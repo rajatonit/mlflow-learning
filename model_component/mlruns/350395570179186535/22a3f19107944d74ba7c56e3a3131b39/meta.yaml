@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/model_component/mlruns/350395570179186535/22a3f19107944d74ba7c56e3a3131b39/artifacts
+end_time: 1715216592653
+entry_point_name: ''
+experiment_id: '350395570179186535'
+lifecycle_stage: active
+run_id: 22a3f19107944d74ba7c56e3a3131b39
+run_name: legendary-panda-176
+run_uuid: 22a3f19107944d74ba7c56e3a3131b39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715216590693
+status: 3
+tags: []
+user_id: rajat

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/autologging/mlruns/126299259405615954/fb9d086703114aa6adf9c516b68ed2ec/artifacts
+end_time: 1715213969269
+entry_point_name: ''
+experiment_id: '126299259405615954'
+lifecycle_stage: active
+run_id: fb9d086703114aa6adf9c516b68ed2ec
+run_name: spiffy-trout-542
+run_uuid: fb9d086703114aa6adf9c516b68ed2ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715213966955
+status: 3
+tags: []
+user_id: rajat

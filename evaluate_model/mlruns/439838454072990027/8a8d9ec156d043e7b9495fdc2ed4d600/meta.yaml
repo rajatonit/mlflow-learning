@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/evaluate_model/mlruns/439838454072990027/8a8d9ec156d043e7b9495fdc2ed4d600/artifacts
+end_time: 1715373136906
+entry_point_name: ''
+experiment_id: '439838454072990027'
+lifecycle_stage: active
+run_id: 8a8d9ec156d043e7b9495fdc2ed4d600
+run_name: fun-tern-424
+run_uuid: 8a8d9ec156d043e7b9495fdc2ed4d600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715373127824
+status: 3
+tags: []
+user_id: rajat

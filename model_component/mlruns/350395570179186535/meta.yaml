@@ -1,0 +1,6 @@
+artifact_location: file:///Users/rajat/Desktop/projects/mlflow_demo_1/model_component/mlruns/350395570179186535
+creation_time: 1715216590627
+experiment_id: '350395570179186535'
+last_update_time: 1715216590627
+lifecycle_stage: active
+name: signature

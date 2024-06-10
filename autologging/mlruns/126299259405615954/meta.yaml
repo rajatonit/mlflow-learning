@@ -1,0 +1,6 @@
+artifact_location: file:///Users/rajat/Desktop/projects/mlflow_demo_1/autologging/mlruns/126299259405615954
+creation_time: 1715213966884
+experiment_id: '126299259405615954'
+last_update_time: 1715213966884
+lifecycle_stage: active
+name: experiment_autolog

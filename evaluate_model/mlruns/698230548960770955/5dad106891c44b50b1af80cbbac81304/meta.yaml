@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/custom_model%3B/mlruns/698230548960770955/5dad106891c44b50b1af80cbbac81304/artifacts
+end_time: 1715358866349
+entry_point_name: ''
+experiment_id: '698230548960770955'
+lifecycle_stage: active
+run_id: 5dad106891c44b50b1af80cbbac81304
+run_name: silent-midge-644
+run_uuid: 5dad106891c44b50b1af80cbbac81304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715358865166
+status: 3
+tags: []
+user_id: rajat

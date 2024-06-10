@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/custom_model%3B/mlruns/698230548960770955/3ec586b4a5f64d0480ec855510004e3f/artifacts
+end_time: 1715358939741
+entry_point_name: ''
+experiment_id: '698230548960770955'
+lifecycle_stage: active
+run_id: 3ec586b4a5f64d0480ec855510004e3f
+run_name: redolent-eel-303
+run_uuid: 3ec586b4a5f64d0480ec855510004e3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715358919128
+status: 3
+tags: []
+user_id: rajat

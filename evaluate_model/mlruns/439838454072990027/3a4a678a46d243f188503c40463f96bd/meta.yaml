@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/evaluate_model/mlruns/439838454072990027/3a4a678a46d243f188503c40463f96bd/artifacts
+end_time: 1715373096423
+entry_point_name: ''
+experiment_id: '439838454072990027'
+lifecycle_stage: active
+run_id: 3a4a678a46d243f188503c40463f96bd
+run_name: respected-flea-854
+run_uuid: 3a4a678a46d243f188503c40463f96bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715373095968
+status: 3
+tags: []
+user_id: rajat

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/evaluate_model/mlruns/439838454072990027/6d1d33c31b684b6583e890e52ca8e5db/artifacts
+end_time: 1715374353460
+entry_point_name: ''
+experiment_id: '439838454072990027'
+lifecycle_stage: active
+run_id: 6d1d33c31b684b6583e890e52ca8e5db
+run_name: magnificent-ox-223
+run_uuid: 6d1d33c31b684b6583e890e52ca8e5db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715374352814
+status: 3
+tags: []
+user_id: rajat

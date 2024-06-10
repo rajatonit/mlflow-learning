@@ -1,0 +1,6 @@
+artifact_location: file:///Users/rajat/Desktop/projects/mlflow_demo_1/custom_model%3B/mlruns/698230548960770955
+creation_time: 1715355871634
+experiment_id: '698230548960770955'
+last_update_time: 1715355871634
+lifecycle_stage: active
+name: experiment_custom_sklearn

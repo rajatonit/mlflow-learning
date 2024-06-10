@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rajat/Desktop/projects/mlflow_demo_1/custom_model%3B/mlruns/698230548960770955/acbdbb2eb2c541d9af55ce6e4be6727e/artifacts
+end_time: 1715358846349
+entry_point_name: ''
+experiment_id: '698230548960770955'
+lifecycle_stage: active
+run_id: acbdbb2eb2c541d9af55ce6e4be6727e
+run_name: wise-lamb-813
+run_uuid: acbdbb2eb2c541d9af55ce6e4be6727e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715358845958
+status: 3
+tags: []
+user_id: rajat
